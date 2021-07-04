@@ -1,0 +1,85 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+
+
+
+.left{
+	float: left;
+	margin-left: 10%;
+}
+
+.right{
+	float: right;
+	margin-right: 10%;
+}
+
+
+.id{
+	width:auto;
+	
+	padding:10px;
+	
+	background-color: #1e1c40;
+	color: white;
+
+
+	
+}
+
+.main{
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-top: 1%;
+}
+
+h1{
+	color: #0c419c;
+	float: left;
+	font-size: 35px;
+
+}
+
+
+ul{
+	list-style-type: none;
+
+}
+
+li{
+	float: right;
+	padding: 10px;
+}
+
+li a{
+   text-decoration: none;
+   color: blue;
+
+}
+
+li a:hover{
+	color: red;
+}
+
+
+.active{
+	color: red;
+}
+
+.head{
+
+}
+
+.body1{
+	text-align: justify;
+	width: 40%;
+	float: left;
+	
+}
+
+.pics{
+	float: right;
+
+}
